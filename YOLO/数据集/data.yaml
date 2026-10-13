@@ -1,0 +1,7 @@
+path: D:/工具/YOLO/data/dataset
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: red_ball
+  1: blue_ball
